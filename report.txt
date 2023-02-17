@@ -1,0 +1,646 @@
+============================ with dataset A ============================
+mean RMSE for Multiple Regression: 1.785986520420589
+
+for lambda:0.5
+mean RMSE for Ridge Regression: 1.8078659791630443
+for lambda:1
+mean RMSE for Ridge Regression: 1.8421761217404093
+for lambda:10
+mean RMSE for Ridge Regression: 2.0693350656800735
+for lambda:100
+mean RMSE for Ridge Regression: 2.8052395175680895
+for lambda:1000
+mean RMSE for Ridge Regression: 2.8098799615843344
+
+for lambda:0.5
+mean RMSE for Lasso Regression: 2.4732380261520626
+for lambda:1
+mean RMSE for Lasso Regression: 2.650918161541989
+for lambda:10
+mean RMSE for Lasso Regression: 2.5547246776448604
+for lambda:100
+mean RMSE for Lasso Regression: 2.4288944764523186
+for lambda:1000
+mean RMSE for Lasso Regression: 2.6203033010113965
+
+for lambda:0.5
+for kernel poly
+kernel degree is:2
+mean RMSE for Kernel Ridge Regression:0.3491047231602776
+
+for lambda:0.5
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:0.31950203112325626
+
+for lambda:0.5
+for kernel poly
+kernel degree is:5
+mean RMSE for Kernel Ridge Regression:0.2947774918877958
+
+for lambda:0.5
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:0.3236393666170386
+
+for lambda:0.5
+for kernel poly
+kernel degree is:10
+mean RMSE for Kernel Ridge Regression:0.3435175731270857
+
+for lambda:0.5
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:0.3150721003911852
+
+for lambda:1
+for kernel poly
+kernel degree is:2
+mean RMSE for Kernel Ridge Regression:0.29077195286273105
+
+for lambda:1
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:0.3108939734735438
+
+for lambda:1
+for kernel poly
+kernel degree is:5
+mean RMSE for Kernel Ridge Regression:0.32530676623680976
+
+for lambda:1
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:0.3246089413660522
+
+for lambda:1
+for kernel poly
+kernel degree is:10
+mean RMSE for Kernel Ridge Regression:0.3057523759991008
+
+for lambda:1
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:0.30403559317022866
+
+for lambda:10
+for kernel poly
+kernel degree is:2
+mean RMSE for Kernel Ridge Regression:0.6041354768990761
+
+for lambda:10
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:0.6927006532636358
+
+for lambda:10
+for kernel poly
+kernel degree is:5
+mean RMSE for Kernel Ridge Regression:0.7102422818857811
+
+for lambda:10
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:0.6878908267120915
+
+for lambda:10
+for kernel poly
+kernel degree is:10
+mean RMSE for Kernel Ridge Regression:0.7045478941405413
+
+for lambda:10
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:0.6310008618112833
+
+for lambda:100
+for kernel poly
+kernel degree is:2
+mean RMSE for Kernel Ridge Regression:1.1421539650344708
+
+for lambda:100
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:1.272492277448922
+
+for lambda:100
+for kernel poly
+kernel degree is:5
+mean RMSE for Kernel Ridge Regression:1.2054841044172964
+
+for lambda:100
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:1.3319007245772654
+
+for lambda:100
+for kernel poly
+kernel degree is:10
+mean RMSE for Kernel Ridge Regression:1.2656006766835681
+
+for lambda:100
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:1.1906186923599318
+
+for lambda:1000
+for kernel poly
+kernel degree is:2
+mean RMSE for Kernel Ridge Regression:2.056423658913613
+
+for lambda:1000
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:2.052239197513608
+
+for lambda:1000
+for kernel poly
+kernel degree is:5
+mean RMSE for Kernel Ridge Regression:2.0988410804460784
+
+for lambda:1000
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:2.043515278949867
+
+for lambda:1000
+for kernel poly
+kernel degree is:10
+mean RMSE for Kernel Ridge Regression:2.1149223680289895
+
+for lambda:1000
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:1.984540209993814
+
+
+
+============================ with dataset B ============================
+mean RMSE for Multiple Regression: 0.3615221190832908
+
+for lambda:0.5
+mean RMSE for Ridge Regression: 0.348813294036718
+for lambda:1
+mean RMSE for Ridge Regression: 0.3750626958158778
+for lambda:10
+mean RMSE for Ridge Regression: 0.3567293750114425
+for lambda:100
+mean RMSE for Ridge Regression: 0.4176129167942587
+for lambda:1000
+mean RMSE for Ridge Regression: 0.40214263385542387
+
+for lambda:0.5
+mean RMSE for Lasso Regression: 1.9979494979095527
+for lambda:1
+mean RMSE for Lasso Regression: 2.040705186336958
+for lambda:10
+mean RMSE for Lasso Regression: 1.9932781920638138
+for lambda:100
+mean RMSE for Lasso Regression: 1.9700555774495974
+for lambda:1000
+mean RMSE for Lasso Regression: 1.847884600700625
+
+for lambda:0.5
+for kernel poly
+kernel degree is:2
+mean RMSE for Kernel Ridge Regression:0.2734713579555982
+
+for lambda:0.5
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:0.2546821114487024
+
+for lambda:0.5
+for kernel poly
+kernel degree is:5
+mean RMSE for Kernel Ridge Regression:0.267879971387532
+
+for lambda:0.5
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:0.2629110560409912
+
+for lambda:0.5
+for kernel poly
+kernel degree is:10
+mean RMSE for Kernel Ridge Regression:0.26750334578287577
+
+for lambda:0.5
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:0.2570418035104054
+
+for lambda:1
+for kernel poly
+kernel degree is:2
+mean RMSE for Kernel Ridge Regression:0.2601533851435673
+
+for lambda:1
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:0.27164857564231604
+
+for lambda:1
+for kernel poly
+kernel degree is:5
+mean RMSE for Kernel Ridge Regression:0.24282873856923523
+
+for lambda:1
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:0.26657206933138944
+
+for lambda:1
+for kernel poly
+kernel degree is:10
+mean RMSE for Kernel Ridge Regression:0.2598586070197539
+
+for lambda:1
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:0.2659188800694589
+
+for lambda:10
+for kernel poly
+kernel degree is:2
+mean RMSE for Kernel Ridge Regression:0.24961384413082374
+
+for lambda:10
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:0.2649099428068574
+
+for lambda:10
+for kernel poly
+kernel degree is:5
+mean RMSE for Kernel Ridge Regression:0.25811731018468115
+
+for lambda:10
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:0.2533619308145301
+
+for lambda:10
+for kernel poly
+kernel degree is:10
+mean RMSE for Kernel Ridge Regression:0.25405233158652907
+
+for lambda:10
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:0.24631838834283998
+
+for lambda:100
+for kernel poly
+kernel degree is:2
+mean RMSE for Kernel Ridge Regression:0.26194862012216197
+
+for lambda:100
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:0.27085421670513216
+
+for lambda:100
+for kernel poly
+kernel degree is:5
+mean RMSE for Kernel Ridge Regression:0.2583448345441597
+
+for lambda:100
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:0.2698576439623303
+
+for lambda:100
+for kernel poly
+kernel degree is:10
+mean RMSE for Kernel Ridge Regression:0.2557658425837995
+
+for lambda:100
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:0.28425949688383395
+
+for lambda:1000
+for kernel poly
+kernel degree is:2
+mean RMSE for Kernel Ridge Regression:0.2998190786537393
+
+for lambda:1000
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:0.31265962295931987
+
+for lambda:1000
+for kernel poly
+kernel degree is:5
+mean RMSE for Kernel Ridge Regression:0.29412800009783624
+
+for lambda:1000
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:0.300287493327228
+
+for lambda:1000
+for kernel poly
+kernel degree is:10
+mean RMSE for Kernel Ridge Regression:0.2962062371177424
+
+for lambda:1000
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:0.3046079135732136
+
+
+
+============================ with dataset C ============================
+mean RMSE for Multiple Regression: 1.4555573719979882
+
+for lambda:0.5
+mean RMSE for Ridge Regression: 1.4094802026787034
+for lambda:1
+mean RMSE for Ridge Regression: 1.5254322134737717
+for lambda:10
+mean RMSE for Ridge Regression: 1.8497930841600714
+for lambda:100
+mean RMSE for Ridge Regression: 2.3701325071061894
+for lambda:1000
+mean RMSE for Ridge Regression: 2.3840343757566047
+
+for lambda:0.5
+mean RMSE for Lasso Regression: 2.362456201887249
+for lambda:1
+mean RMSE for Lasso Regression: 2.332794590915621
+for lambda:10
+mean RMSE for Lasso Regression: 2.4457617253330914
+for lambda:100
+mean RMSE for Lasso Regression: 2.378307072821771
+for lambda:1000
+mean RMSE for Lasso Regression: 2.4405237481175415
+
+for lambda:0.5
+for kernel poly
+kernel degree is:2
+mean RMSE for Kernel Ridge Regression:0.055812373298549725
+
+for lambda:0.5
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:0.06879313463926469
+
+for lambda:0.5
+for kernel poly
+kernel degree is:5
+mean RMSE for Kernel Ridge Regression:0.061509590579016275
+
+for lambda:0.5
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:0.06459418872178242
+
+for lambda:0.5
+for kernel poly
+kernel degree is:10
+mean RMSE for Kernel Ridge Regression:0.0686396358260128
+
+for lambda:0.5
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:0.0806125964096207
+
+for lambda:1
+for kernel poly
+kernel degree is:2
+mean RMSE for Kernel Ridge Regression:0.1093546021739906
+
+for lambda:1
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:0.12931958668070387
+
+for lambda:1
+for kernel poly
+kernel degree is:5
+mean RMSE for Kernel Ridge Regression:0.13282028461144546
+
+for lambda:1
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:0.12801540559815497
+
+for lambda:1
+for kernel poly
+kernel degree is:10
+mean RMSE for Kernel Ridge Regression:0.10109491951309897
+
+for lambda:1
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:0.11592864339353877
+
+for lambda:10
+for kernel poly
+kernel degree is:2
+mean RMSE for Kernel Ridge Regression:0.5655319576988611
+
+for lambda:10
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:0.6039941385119024
+
+for lambda:10
+for kernel poly
+kernel degree is:5
+mean RMSE for Kernel Ridge Regression:0.6144269165493731
+
+for lambda:10
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:0.514632907971135
+
+for lambda:10
+for kernel poly
+kernel degree is:10
+mean RMSE for Kernel Ridge Regression:0.42137600601095654
+
+for lambda:10
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:0.551371962328683
+
+for lambda:100
+for kernel poly
+kernel degree is:2
+mean RMSE for Kernel Ridge Regression:0.85596968653145
+
+for lambda:100
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:0.8628144842080545
+
+for lambda:100
+for kernel poly
+kernel degree is:5
+mean RMSE for Kernel Ridge Regression:0.8453053583808363
+
+for lambda:100
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:0.9248185851255143
+
+for lambda:100
+for kernel poly
+kernel degree is:10
+mean RMSE for Kernel Ridge Regression:0.9526605250134506
+
+for lambda:100
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:0.9886798869728008
+
+for lambda:1000
+for kernel poly
+kernel degree is:2
+mean RMSE for Kernel Ridge Regression:1.3206001833541388
+
+for lambda:1000
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:1.338795382153773
+
+for lambda:1000
+for kernel poly
+kernel degree is:5
+mean RMSE for Kernel Ridge Regression:1.3177005633844165
+
+for lambda:1000
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:1.3693810858314164
+
+for lambda:1000
+for kernel poly
+kernel degree is:10
+mean RMSE for Kernel Ridge Regression:1.3829216823994819
+
+for lambda:1000
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:1.3057937433190394
+
+
+
+============================ with dataset D ============================
+mean RMSE for Multiple Regression: 1.338715885236751
+
+for lambda:0.5
+mean RMSE for Ridge Regression: 1.3387444057579287
+for lambda:1
+mean RMSE for Ridge Regression: 1.4009891732581645
+for lambda:10
+mean RMSE for Ridge Regression: 1.639161407358869
+for lambda:100
+mean RMSE for Ridge Regression: 1.9268170852135
+for lambda:1000
+mean RMSE for Ridge Regression: 1.8805354233925629
+
+for lambda:0.5
+mean RMSE for Lasso Regression: 2.3611323109915294
+for lambda:1
+mean RMSE for Lasso Regression: 2.5214176732476803
+for lambda:10
+mean RMSE for Lasso Regression: 2.327608418692481
+for lambda:100
+mean RMSE for Lasso Regression: 2.3395299798648335
+for lambda:1000
+mean RMSE for Lasso Regression: 2.2096418637338373
+
+for lambda:0.5
+for kernel poly
+kernel degree is:2
+mean RMSE for Kernel Ridge Regression:1.919493944000004
+
+for lambda:0.5
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:1.7342862830826877
+
+for lambda:0.5
+for kernel poly
+kernel degree is:5
+mean RMSE for Kernel Ridge Regression:1.8118881648336065
+
+for lambda:0.5
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:1.929563503896007
+
+for lambda:0.5
+for kernel poly
+kernel degree is:10
+mean RMSE for Kernel Ridge Regression:1.896779188834781
+
+for lambda:0.5
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:1.8520150048891144
+
+for lambda:1
+for kernel poly
+kernel degree is:2
+mean RMSE for Kernel Ridge Regression:1.8462822051246925
+
+for lambda:1
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:1.9494992855217388
+
+for lambda:1
+for kernel poly
+kernel degree is:5
+mean RMSE for Kernel Ridge Regression:1.726294795103561
+
+for lambda:1
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:1.8197949015982413
+
+for lambda:1
+for kernel poly
+kernel degree is:10
+mean RMSE for Kernel Ridge Regression:1.8050212870905131
+
+for lambda:1
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:1.881925826484206
+
+for lambda:10
+for kernel poly
+kernel degree is:2
+mean RMSE for Kernel Ridge Regression:1.7295698898066134
+
+for lambda:10
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:1.6901543491719258
+
+for lambda:10
+for kernel poly
+kernel degree is:5
+mean RMSE for Kernel Ridge Regression:1.6490600007153982
+
+for lambda:10
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:1.6580385757707563
+
+for lambda:10
+for kernel poly
+kernel degree is:10
+mean RMSE for Kernel Ridge Regression:1.6610277119245382
+
+for lambda:10
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:1.6139464460168425
+
+for lambda:100
+for kernel poly
+kernel degree is:2
+mean RMSE for Kernel Ridge Regression:1.480042587935727
+
+for lambda:100
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:1.3801700660445761
+
+for lambda:100
+for kernel poly
+kernel degree is:5
+mean RMSE for Kernel Ridge Regression:1.4394351322645929
+
+for lambda:100
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:1.3758278487627684
+
+for lambda:100
+for kernel poly
+kernel degree is:10
+mean RMSE for Kernel Ridge Regression:1.4722746430236708
+
+for lambda:100
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:1.4547555141024966
+
+for lambda:1000
+for kernel poly
+kernel degree is:2
+mean RMSE for Kernel Ridge Regression:1.4727685105110526
+
+for lambda:1000
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:1.5379481319730286
+
+for lambda:1000
+for kernel poly
+kernel degree is:5
+mean RMSE for Kernel Ridge Regression:1.3911876191157857
+
+for lambda:1000
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:1.4338722418223322
+
+for lambda:1000
+for kernel poly
+kernel degree is:10
+mean RMSE for Kernel Ridge Regression:1.5651548189055942
+
+for lambda:1000
+for kernel gaussian
+mean RMSE for Kernel Ridge Regression:1.5114564030728874
+
